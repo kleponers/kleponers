@@ -1,5 +1,5 @@
 ### Hi, I'm kleponers 👋
-CS Student · Web Developer · Part time Game Developer · Part time Mobile App Developer
+CS Student · Full time Web Developer · Part time Game Developer · Part time Mobile App Developer
 
 ### Hi, I'm kleponers 👋
 <!--START_SECTION:snake-->
