@@ -1,4 +1,4 @@
-### Hi, I'm kleponers 👋
+### Hi! I'm Kevin
 CS Student · Full time Web Developer · Part time Game Developer · Part time Mobile App Developer
 <!--START_SECTION:snake-->
 <img src="https://raw.githubusercontent.com/kleponers/kleponers/output/github-contribution-grid-snake.svg" alt="snake" />
