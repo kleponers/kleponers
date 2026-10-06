@@ -1,5 +1,5 @@
 ### Hi, I'm kevin
-CS Student · Full time Web Developer · Part time Game Developer · Part time Mobile App Developer
+CS Student · Full time Web Developer · Part time Mobile App Developer · Sometimes Game Developer 
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJ1em9ndDV3MmNleHhhbDU4Mzh4YWk5bmc0dW5sZmxhNjJiZGczMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/D63HGAzG15LQrjBPRE/200.webp" width="200" alt="ishowspeed" />
 
